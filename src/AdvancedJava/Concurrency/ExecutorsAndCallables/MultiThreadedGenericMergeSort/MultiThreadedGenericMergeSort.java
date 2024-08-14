@@ -17,7 +17,7 @@ public class MultiThreadedGenericMergeSort implements Callable<List<? extends Nu
         List<Number> mergedList = new ArrayList<>();
         int i = 0, j = 0;
         while(i < left.size() && j < right.size()) {
-            if(Compare.compare(left.get(i), right.get(j)) == 1) {
+            if(Compare.compare(left.get(i), right.get(j)) == 0) {
                 mergedList.add(left.get(i));
                 i++;
             } else {
