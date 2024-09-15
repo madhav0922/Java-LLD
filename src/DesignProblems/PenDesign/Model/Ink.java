@@ -1,4 +1,4 @@
-package DesignProblems.PenDesign;
+package DesignProblems.PenDesign.Model;
 
 import java.util.List;
 

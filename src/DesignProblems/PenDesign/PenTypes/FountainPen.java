@@ -1,7 +1,6 @@
 package DesignProblems.PenDesign.PenTypes;
 
-import DesignProblems.PenDesign.Pen;
+import DesignProblems.PenDesign.Model.Pen;
 
 public class FountainPen extends Pen {
-
 }

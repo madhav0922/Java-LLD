@@ -1,4 +1,4 @@
-package DesignProblems.PenDesign;
+package DesignProblems.PenDesign.Model;
 
 public enum PenType {
     BALL,
