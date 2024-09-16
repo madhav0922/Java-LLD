@@ -1,4 +1,4 @@
-package AdvancedJava.Concurrency.Synchronization.AdderSubtractorCount.Problem;
+package AdvancedJava.Synchronization.AdderSubtractorCount.Problem;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

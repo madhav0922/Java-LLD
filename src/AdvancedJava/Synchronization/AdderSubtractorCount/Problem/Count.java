@@ -1,4 +1,4 @@
-package AdvancedJava.Concurrency.Synchronization.AdderSubtractorCount.Problem;
+package AdvancedJava.Synchronization.AdderSubtractorCount.Problem;
 
 public class Count {
     int value;

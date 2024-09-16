@@ -1,4 +1,4 @@
-package AdvancedJava.Concurrency.Synchronization.AdderSubtractorCount.Problem;
+package AdvancedJava.Synchronization.AdderSubtractorCount.Problem;
 
 // This is the Task class
 // because we want to increment and decrement the count ultimately
